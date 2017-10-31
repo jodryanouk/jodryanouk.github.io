@@ -3,9 +3,9 @@ const sass = require('gulp-sass');
 const pug = require('gulp-pug');
 
 gulp.task('sass', function () {
-  return gulp.src('./docs/scss/main.scss')
+  return gulp.src('./assets/scss/main.scss')
     .pipe(sass().on('error', sass.logError))
-    .pipe(gulp.dest('./docs/css'));
+    .pipe(gulp.dest('./assets/css'));
 });
 
 gulp.task('views', function buildHTML() {
@@ -17,5 +17,5 @@ gulp.task('views', function buildHTML() {
 gulp.task('build', ['sass', 'views']);
 
 gulp.task('sass:watch', function () {
-  gulp.watch('./docs/scss/*.scss', ['sass']);
+  gulp.watch('./assets/scss/*.scss', ['sass']);
 });
