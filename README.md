@@ -2,7 +2,7 @@
 
 ## Install
 
-   npm i
+    npm i
 
 ## Build
 
