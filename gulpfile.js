@@ -11,7 +11,7 @@ gulp.task('sass', function () {
 gulp.task('views', function buildHTML() {
     return gulp.src(['views/about.pug', 'views/index.pug'])
     .pipe(pug({}))
-    .pipe(gulp.dest('./docs'));
+    .pipe(gulp.dest('./'));
 });
 
 gulp.task('build', ['sass', 'views']);
