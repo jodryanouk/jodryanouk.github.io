@@ -9,7 +9,7 @@ h1 {
   font-weight: bold;
   text-align: center;
   color: #fecb9c;
-  margin: 100px 0; }
+  margin: 50px 0; }
   h1 span {
     border: 2px solid #fecb9c;
     padding: 10px; }
@@ -21,7 +21,7 @@ h1 {
     height: 3rem;
     width: 70%;
     display: inline-flex;
-    margin-bottom: 50px; }
+    margin-bottom: 20px; }
     .center-content .menu .menu-item {
       width: 30%;
       height: 3rem;
@@ -45,7 +45,7 @@ h1 {
         text-align: center;
         padding-top: 7px; }
   .center-content .article img {
-    width: 50%;
+    width: 70%;
     padding: 20px; }
   .center-content .article span {
     font-style: italic;
