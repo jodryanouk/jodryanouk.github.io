@@ -59,3 +59,7 @@ h1 {
     font-style: italic;
     font-size: 14px;
     color: grey; }
+  .center-content .presentation .info {
+    font-size: 20px;
+    color: grey;
+    width: 500px; }
