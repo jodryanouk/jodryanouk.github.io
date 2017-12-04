@@ -61,4 +61,5 @@ h1 {
     color: grey; }
   .center-content .presentation .info {
     font-size: 20px;
-    color: grey; }
+    color: grey;
+    text-align: justify; }
