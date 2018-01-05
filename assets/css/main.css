@@ -23,7 +23,8 @@ h1 {
     margin-bottom: 20px; }
     @media screen and (max-width: 500px) {
       .center-content .menu {
-        display: block; } }
+        display: block;
+        margin: 35px; } }
     .center-content .menu .menu-item {
       width: 30%;
       height: 3rem;
