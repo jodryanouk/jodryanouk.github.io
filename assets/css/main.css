@@ -76,11 +76,11 @@ h1 {
     color: grey;
     text-align: justify; }
 
-.container {
+.container-footer {
   display: flex;
   align-items: center; }
-  .container img {
+  .container-footer img {
     width: 30%; }
-  .container h3 {
+  .container-footer h3 {
     font-size: 16px;
-    margin: o auto; }
+    margin: 0 auto; }
