@@ -75,3 +75,12 @@ h1 {
     font-size: 20px;
     color: grey;
     text-align: justify; }
+
+.container {
+  display: flex;
+  align-items: center; }
+  .container img {
+    width: 30%; }
+  .container h3 {
+    font-size: 16px;
+    margin: o auto; }
