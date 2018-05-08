@@ -4,16 +4,18 @@ body {
   padding: 0;
   background-color: #ffffff; }
 
-h1 {
+h2 {
   font-family: 'Yellowtail', cursive;
-  font-size: 50px;
-  font-weight: bold;
+  font-size: 30px;
   text-align: center;
   color: #67858e;
   margin: 50px 0; }
-  h1 span {
-    border: 2px solid #d8d8d8;
-    padding: 10px; }
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  color: #0089b1;
+  margin: 50px 0; }
 
 .center-content {
   text-align: center;
