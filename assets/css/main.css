@@ -4,6 +4,9 @@ body {
   padding: 0;
   background-color: #ffffff; }
 
+h1 {
+  text-align: center; }
+
 h2 {
   font-family: 'Yellowtail', cursive;
   font-size: 30px;
